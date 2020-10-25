@@ -1,0 +1,10 @@
+{
+	"editor.rulers": [
+		120,
+	],
+	"C_Cpp.default.defines": [
+		"MULTIPLY_MODE_SERIAL",
+		"MULTIPLY_MODE_OPENMP",
+		"MULTIPLY_MODE_OPENCL",
+	],
+}

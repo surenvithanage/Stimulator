@@ -1,0 +1,10 @@
+{
+	"editor.rulers": [
+		120,
+	],
+	"C_Cpp.default.defines": [
+		"CLUSTER_MODE_SERIAL",
+		"CLUSTER_MODE_MPI_SERIAL",
+		"CLUSTER_MODE_MPI_OPENCL",
+	],
+}
