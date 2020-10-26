@@ -2,7 +2,7 @@
 #include <chrono>
 #include <math.h>
 #include <string.h>
-#include <mpich/mpi.h>
+#include "mpi.h"
 
 #include "Args.h"
 #include "mat/Matrix.h"
